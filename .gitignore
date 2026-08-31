@@ -1,0 +1,18 @@
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
